@@ -1,7 +1,3 @@
-<a href="https://ducafecat.com" target="_blank">
-  <img src="https://ducafecat.oss-cn-beijing.aliyuncs.com/ducafecat/video-ducafecat-banner.png" alt="猫哥视频站" >
-</a>
-
 # flutter_ducafecat_news_getx
 
 ## 接口 api 说明
